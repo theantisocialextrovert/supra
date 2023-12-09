@@ -77,7 +77,7 @@ body{
 }
 
 .caption{
-    font-size: 25px;
+    font-size: 20px;
     
     text-shadow: 8px 4px 9px #f20044;
     color: #f20044;
@@ -89,7 +89,7 @@ body{
     margin-bottom: 60vh;
 }
 .caption-two{
-    font-size: 45px;
+    font-size: 40px;
     
     text-shadow: 8px 4px 9px #f20044;
     color: #f20044;
@@ -122,7 +122,7 @@ body{
   -webkit-user-select: none;
   touch-action: manipulation;
   position: absolute;
-  margin-top: 37vh;
+  margin-top: 67vh;
   align-self:center;
 }
 
