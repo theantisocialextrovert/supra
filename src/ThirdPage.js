@@ -4,6 +4,8 @@ import './ThirdPage.css'
 
 function ThirdPage(){
     return (
+        <body>
+        <div class="msg2"> A message for My Purple</div>
         <div class="envelope">
         <div class="back"></div>
         <div class="letter">
@@ -23,6 +25,7 @@ function ThirdPage(){
         <div class="top"></div>
         <div class="shadow"></div>
       </div>
+      </body>
       
     )
 }

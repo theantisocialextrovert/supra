@@ -127,3 +127,13 @@ body {
     transform: translateY(-100px);
     z-index:2;
   }
+
+  .msg2{
+    margin-top: 50vh;
+    font-size: 20px;
+    font-family: "Bradley Hand ITC";
+    font-weight: bold;
+    text-shadow: 8px 4px 9px #f20044;
+    position: absolute;
+    font-weight: bold;
+  }
