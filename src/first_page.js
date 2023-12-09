@@ -1,14 +1,13 @@
 import React from 'react';
 import './FirstPage.css';
-//import logo from './img/Fill 213.png'
 
 function FirstPage(){
     return (
         <body>
+        <span class="caption">My heart beats for you...</span>
+        <span class="caption-two"> Priyanka Mahato.</span>
         <div class="heart"></div>
-        <button class="button-33" >click me baby</button>
         </body>
-      
     )
 }
 

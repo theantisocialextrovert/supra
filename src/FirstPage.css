@@ -76,6 +76,31 @@ body{
     box-shadow: 10px 10px 90px #f20044;
 }
 
+.caption{
+    font-size: 25px;
+    
+    text-shadow: 8px 4px 9px #f20044;
+    color: #f20044;
+    font-family: 'Bradley Hand ITC';
+    font-weight: bold;
+    text-align: center;
+    height: 20px;
+    position: absolute;
+    margin-bottom: 60vh;
+}
+.caption-two{
+    font-size: 45px;
+    
+    text-shadow: 8px 4px 9px #f20044;
+    color: #f20044;
+    font-family: 'Bradley Hand ITC';
+    font-weight: bold;
+    text-align: center;
+    height: 20px;
+    position: absolute;
+    margin-bottom: 52vh;
+}
+
 
 
 /* CSS */
@@ -96,11 +121,9 @@ body{
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
-  margin: auto;
-  margin-top: 65vh;
-  align-self:flex-end;
-  
-  
+  position: absolute;
+  margin-top: 37vh;
+  align-self:center;
 }
 
 .button-33:hover {
