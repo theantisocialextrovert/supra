@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/expi_app/static/css/main.7e3dc03c.css",
+    "main.js": "/expi_app/static/js/main.14de02f2.js",
+    "static/js/787.7c43948a.chunk.js": "/expi_app/static/js/787.7c43948a.chunk.js",
+    "static/media/flowerBear.gif": "/expi_app/static/media/flowerBear.7cb1db98af7339613d26.gif",
+    "static/media/pic.jpg": "/expi_app/static/media/pic.afe396fdb3565cc4b6a8.jpg",
+    "static/media/kisses.gif": "/expi_app/static/media/kisses.419e28a9183f3abead95.gif",
+    "static/media/madBear.gif": "/expi_app/static/media/madBear.960144df23faee67bea0.gif",
+    "index.html": "/expi_app/index.html",
+    "main.7e3dc03c.css.map": "/expi_app/static/css/main.7e3dc03c.css.map",
+    "main.14de02f2.js.map": "/expi_app/static/js/main.14de02f2.js.map",
+    "787.7c43948a.chunk.js.map": "/expi_app/static/js/787.7c43948a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e3dc03c.css",
+    "static/js/main.14de02f2.js"
+  ]
+}
