@@ -6,8 +6,8 @@ function SecondPage(){
     return (
     <body>
     <div class="card">
-        I love you🤭❤️ <br/>
-        my baby.
+        Always keep smiling like this🤭❤️ <br/>
+
     </div>
     </body>
       

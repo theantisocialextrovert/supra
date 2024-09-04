@@ -28,7 +28,7 @@
 .card:hover{
     color: rgb(230, 9, 38);
     transition: color 1s;
-    background-image: url("./pic.png");
+    background-image: url("./pic.jpg");
 }
 .card:hover::before,
 .card:hover::after{

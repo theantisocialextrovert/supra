@@ -5,7 +5,7 @@ function FirstPage(){
     return (
         <body>
         <span class="caption">My heart will always beat for you...</span>
-        <span class="caption-two"> Priyanka Mahato.</span>
+        <span class="caption-two"> Anjani Singh.</span>
         <div class="heart"></div>
         </body>
     )
